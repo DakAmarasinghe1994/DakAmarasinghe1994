@@ -57,7 +57,7 @@ in joint and Cartesian space. Integrated an existing controller GUI,
 implemented MoveIt 2 inverse-kinematics requests for virtual-model control,
 and adapted UART communication across PC and Jetson platforms.
 
-### Path Planning Algorithms for an Autonomous Vehicle
+### [Path Planning Algorithms for an Autonomous Vehicle](https://github.com/DakAmarasinghe1994/autonomous-vehicle-path-planning)
 Developed MATLAB simulations using RRT and A* to investigate planning
 around static and dynamic obstacles, including probabilistic
 route-confidence updates and route visualization.
