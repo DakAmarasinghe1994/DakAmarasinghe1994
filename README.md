@@ -34,13 +34,13 @@ system testing, and troubleshooting.
 
 ## Featured Projects
 
-### AI-Enabled Multi-Task Robot Work-Cell
+### [AI-Enabled Multi-Task Robot Work-Cell](https://github.com/DakAmarasinghe1994/ai-enabled-multi-task-robot-workcell)
 Integrated YOLOv8 object detection, ZED stereo vision, and DexArm control
 for conveyor-based tool picking. Developed perception and handling workflows
 including object characterization, coordinate transformations, grasp
 verification, and retry logic.
 
-### Encoderless AGV Localization and SLAM
+### [Encoderless AGV Localization and SLAM](https://github.com/DakAmarasinghe1994/encoderless-agv-localization-slam)
 Developed a Raspberry Pi 5-based ROS 2 stack combining RF2O LiDAR odometry,
 BNO055 IMU data, EKF sensor fusion, and SLAM Toolbox for occupancy-grid
 mapping without wheel encoders. Provides a foundation for future
