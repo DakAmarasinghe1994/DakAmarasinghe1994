@@ -46,7 +46,7 @@ BNO055 IMU data, EKF sensor fusion, and SLAM Toolbox for occupancy-grid
 mapping without wheel encoders. Provides a foundation for future
 wheel-encoder fusion and autonomous navigation using Nav2.
 
-### KUKA Industrial Automation
+### [KUKA Industrial Automation](https://github.com/DakAmarasinghe1994/kuka-industrial-automation)
 Programmed and tested AI-to-robot interface code for a KUKA Delta robot
 R&D workcell, including robot/conveyor coordination, automatic external
 operation, and electro-pneumatic integration.
