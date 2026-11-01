@@ -51,7 +51,7 @@ Programmed and tested AI-to-robot interface code for a KUKA Delta robot
 R&D workcell, including robot/conveyor coordination, automatic external
 operation, and electro-pneumatic integration.
 
-### MyCobot280Pi Control System
+### [MyCobot280Pi Control System](https://github.com/DakAmarasinghe1994/mycobot280pi-control-system)
 Developed modular ROS 2 interfaces for physical and virtual robot control
 in joint and Cartesian space. Integrated an existing controller GUI,
 implemented MoveIt 2 inverse-kinematics requests for virtual-model control,
